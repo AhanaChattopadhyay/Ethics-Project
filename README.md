@@ -1,0 +1,1 @@
+This project was done in collaboration with my classmates Tian Fang, Aubin Medjaed and Elisabeth Olamisan. Here's the github Repository link for the project: https://github.com/tt202311/Greenwashing_French
